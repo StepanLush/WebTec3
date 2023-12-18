@@ -1,5 +1,5 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
-<%@ page import="com.poluectov.criticine.criticines.util.Domain" %>
+<%@ page import="com.luschickij.criticine.criticines.util.Domain" %>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
 
 <%@ page isELIgnored="false" %>
