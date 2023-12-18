@@ -13,3 +13,4 @@ public class CriticsController {
         return "critics";
     }
 }
+

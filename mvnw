@@ -157,6 +157,7 @@ find_maven_basedir() {
   printf '%s' "$(cd "$basedir" || exit 1; pwd)"
 }
 
+
 # concatenates all lines of a file
 concat_lines() {
   if [ -f "$1" ]; then
